@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dayana Rosales
 ======================================================================================================================================
 
-Software Enginering Student
+Software Engineering Student
 ---------------------------
 
 Current Software Engineering Student with the Institute of Data program. With an ambition to learn and create interactive web pages with HTML, CSS and JavaScript, connecting them with backend databases, and develop best practices in software engineering.
